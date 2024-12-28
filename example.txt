@@ -1,4 +1,4 @@
-hello i am creating an example file and now i am modifying something in new branch
+hello harshitha how r u  i am creating an example file and now i am modifying something in new branch
 
 now i am using git stash
 
